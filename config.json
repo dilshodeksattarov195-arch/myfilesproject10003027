@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercarse",
+        "uuid": 30333567,
+        "checksum": "ty89el"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
